@@ -1,0 +1,38 @@
+########################################################################
+#                       *CANVAS Release 7.27*                          #
+########################################################################
+
+*Date*: 09 February 2021
+
+*Version*: 7.27
+
+*Download URL*: https://canvas.immunityinc.com/getcanvas
+
+*Release Notes*:
+
+In this CANVAS release we are bringing you 4 new modules and bugfixes.
+
+Our new modules include zerologon (CVE-2020-1742) and three remote code execution
+exploits targeting SaltStack (CVE-2020-11651), Apache Solr (CVE-2020-13957) and
+Solaris 10 (CVE-2020-14817).
+
+
+==Changes==
+
+o Reporter bugfixes
+
+o CommandLineExecuter bugfixes
+
+==New Modules==
+
+o zerologon (CVE-2020-1742)
+
+o saltstack_minion_rce (CVE-2020-11651)
+
+o solr_cloud_rce (CVE-2020-13957)
+
+o solaris_sunssh (CVE-2020-14817)
+
+
+########################################################################
+########################################################################
